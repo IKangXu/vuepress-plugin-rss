@@ -1,0 +1,32 @@
+{
+  "name": "@ikangxu/vuepress-plugin-rss",
+  "version": "0.0.3",
+  "description": "rss plugin for vuepress-theme-ic",
+  "author": "IKangXu <ikangxu@outlook.com>",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint-ext": "eslint --ext .js,.vue ./",
+    "eslint-fix": "eslint --fix --ext .js,.vue ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKangXu/vuepress-plugin-rss.git"
+  },
+  "keywords": [
+    "vuepress-theme-ic",
+    "rss"
+  ],
+  "bugs": {
+    "url": "https://github.com/IKangXu/vuepress-plugin-rss/issues"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "fs-extra": "^5.0.0",
+    "rss": "^1.2.2"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "homepage": "https://github.com/IKangXu?tab=repositories"
+}
